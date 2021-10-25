@@ -8,7 +8,7 @@ namespace delegetes
 {
     class StringOperations
     {
-        
+       Погано спроектовано. Я поясню детальніше. Нагадайте 
 
         static public List<string> getMaxBrackets(string[] lines, ref string str )
         {
